@@ -1,0 +1,13 @@
+{
+  "name": "f1-minimal-api",
+  "version": "1.0.0",
+  "description": "Minimal API da Fórmula 1 com Node.js e Fastify",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "fastify": "^4.27.0"
+  }
+}
